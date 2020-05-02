@@ -1,0 +1,2678 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"contex",
+				"context\tstatement"
+			],
+			[
+				"doc",
+				"docx_generator\tmodule"
+			],
+			[
+				"impor",
+				"import"
+			],
+			[
+				"N",
+				"SET_NULL\tfunction"
+			],
+			[
+				"Publi",
+				"PublicationAuthorship"
+			],
+			[
+				"Va",
+				"ValidationError\tclass"
+			],
+			[
+				"pa",
+				"pages_authored"
+			],
+			[
+				"page",
+				"pages_number"
+			],
+			[
+				"publ",
+				"publcations"
+			],
+			[
+				"min",
+				"mposint\tPositiveIntegerField (mposint)"
+			],
+			[
+				"mdate",
+				"mdatetime\tDateTimeField (mdatetime)"
+			],
+			[
+				"T",
+				"True\tkeyword"
+			],
+			[
+				"public",
+				"Publication\tclass"
+			],
+			[
+				"Publica",
+				"PublicationType\tclass"
+			],
+			[
+				"publi",
+				"PublicationType\tclass"
+			],
+			[
+				"cat",
+				"cathedra_number"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"par",
+				"part2\tstatement"
+			],
+			[
+				"add",
+				"addon_vector\tstatement"
+			],
+			[
+				"x",
+				"x_new\tstatement"
+			],
+			[
+				"x_",
+				"x_current\tstatement"
+			],
+			[
+				"del",
+				"delta\tstatement"
+			],
+			[
+				"mul",
+				"multiply\tinstance"
+			],
+			[
+				"grad",
+				"grad\tstatement"
+			],
+			[
+				"hess",
+				"hessian\tstatement"
+			],
+			[
+				"brea",
+				"break\tkeyword"
+			],
+			[
+				"func",
+				"func_args\tstatement"
+			],
+			[
+				"break",
+				"break\tkeyword"
+			],
+			[
+				"su",
+				"subtract"
+			],
+			[
+				"fun",
+				"func_args"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"Vete",
+				"Veterancy_IsElite"
+			],
+			[
+				"Infant",
+				"InfantryTypeClass"
+			],
+			[
+				"0x423",
+				"0x4238A3"
+			],
+			[
+				"str",
+				"strtobool\tfunction"
+			],
+			[
+				"u",
+				"util\tmodule"
+			],
+			[
+				"ann",
+				"announce_string\tparam"
+			],
+			[
+				"typ",
+				"typing\tmodule"
+			],
+			[
+				"even",
+				"event_loop\tstatement"
+			],
+			[
+				"irc",
+				"irc_client\tstatement"
+			],
+			[
+				"Key",
+				"KeyboardInterrupt\tclass"
+			],
+			[
+				"Disc",
+				"DiscordCnCNetBot\tclass"
+			],
+			[
+				"de",
+				"debug\tfunction"
+			],
+			[
+				"dis",
+				"discord_client"
+			],
+			[
+				"disc",
+				"discord_client\tstatement"
+			],
+			[
+				"eve",
+				"event_loop\tstatement"
+			],
+			[
+				"IRC",
+				"IRCEventClient\tclass"
+			],
+			[
+				"ev",
+				"event_loop\tparam"
+			],
+			[
+				"confi",
+				"config_file\tstatement"
+			],
+			[
+				"wit",
+				"write\tfunction"
+			],
+			[
+				"cong",
+				"config_filename\tparam"
+			],
+			[
+				"is",
+				"isfile\tfunction"
+			],
+			[
+				"conf",
+				"config_filename\tparam"
+			],
+			[
+				"read",
+				"read_dict\tfunction"
+			],
+			[
+				"Ada",
+				"adams2\tfunction"
+			],
+			[
+				"Ad",
+				"Adams2"
+			],
+			[
+				"Adm",
+				"Adams2\tmodule"
+			],
+			[
+				"Strin",
+				"StringBuilder"
+			],
+			[
+				"yi",
+				"yi_arr\tstatement"
+			],
+			[
+				"ap",
+				"append\tfunction"
+			],
+			[
+				"tem",
+				"temp_down\tstatement"
+			],
+			[
+				"rts",
+				"rts0"
+			],
+			[
+				"si",
+				"size_spin\tstatement"
+			],
+			[
+				"P",
+				"PySide2\tmodule"
+			],
+			[
+				"no",
+				"None\tkeyword"
+			],
+			[
+				"QFi",
+				"QFileDialog\tclass"
+			],
+			[
+				"me",
+				"method\tstatement"
+			],
+			[
+				"cal",
+				"calc"
+			],
+			[
+				"pai",
+				"pairs\tstatement"
+			],
+			[
+				"ex",
+				"excluded_point\tstatement"
+			],
+			[
+				"item",
+				"items\tstatement"
+			],
+			[
+				"app",
+				"appendPlainText"
+			],
+			[
+				"la",
+				"lav_fad\tfunction"
+			],
+			[
+				"res",
+				"res_temp\tstatement"
+			],
+			[
+				"bre",
+				"break\tkeyword"
+			],
+			[
+				"lam",
+				"lambdas\tstatement"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"re",
+				"return\tkeyword"
+			],
+			[
+				"o",
+				"output_text"
+			],
+			[
+				"num",
+				"numpy\tmodule"
+			],
+			[
+				"val",
+				"value\tfunction"
+			],
+			[
+				"ste",
+				"step_spin\tstatement"
+			],
+			[
+				"cl",
+				"clicked\tinstance"
+			],
+			[
+				"cu",
+				"currentIndex\tfunction"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"b",
+				"b_new"
+			],
+			[
+				"f_",
+				"f_expr\tstatement"
+			],
+			[
+				"diff",
+				"differentiate\tfunction"
+			],
+			[
+				"differentia",
+				"differentiate"
+			],
+			[
+				"r",
+				"result_expression"
+			],
+			[
+				"cho",
+				"chordes_a"
+			],
+			[
+				"resul",
+				"result_lambda\tstatement"
+			],
+			[
+				"result",
+				"result_expression\tstatement"
+			],
+			[
+				"цен",
+				"Цена"
+			],
+			[
+				"Ins",
+				"INSERT"
+			],
+			[
+				"Пос",
+				"Поставщики"
+			],
+			[
+				"F",
+				"FROM"
+			],
+			[
+				"U",
+				"USE"
+			],
+			[
+				"Пост",
+				"Поставлено"
+			],
+			[
+				"Be",
+				"BEGIN"
+			],
+			[
+				"Поста",
+				"Поставлено"
+			],
+			[
+				"decimal",
+				"Decimal\tclass"
+			],
+			[
+				"for",
+				"format\tfunction"
+			],
+			[
+				"var",
+				"variables_str\tstatement"
+			],
+			[
+				"In",
+				"INTO"
+			],
+			[
+				"inse",
+				"insert"
+			],
+			[
+				"Int",
+				"INTO"
+			],
+			[
+				"Постав",
+				"Поставщик"
+			],
+			[
+				"Ко",
+				"КодПоставщика"
+			],
+			[
+				"new",
+				"new_fiz_code"
+			],
+			[
+				"IN",
+				"INTO"
+			],
+			[
+				"ne",
+				"new_dgvr_nomer"
+			],
+			[
+				"sp",
+				"sp_dgvr_mdf"
+			],
+			[
+				"dgvr",
+				"dgvr_comment"
+			],
+			[
+				"dgvr_",
+				"dgvr_kod_post"
+			],
+			[
+				"dgv",
+				"dgvr_date"
+			],
+			[
+				"sp_",
+				"sp_dgvr_agr"
+			],
+			[
+				"va",
+				"var1"
+			],
+			[
+				"Юр",
+				"ЮридическиеЛица"
+			],
+			[
+				"S",
+				"SELECT"
+			],
+			[
+				"tr",
+				"try\tTry/Except"
+			],
+			[
+				"spo",
+				"size_spin_box\tstatement"
+			],
+			[
+				"file",
+				"file_name\tstatement"
+			],
+			[
+				"com",
+				"method_combo_box\tstatement"
+			],
+			[
+				"te",
+				"output_text_area\tstatement"
+			],
+			[
+				"Val",
+				"ValueError\tclass"
+			],
+			[
+				"setTit",
+				"setWindowTitle\tfunction"
+			],
+			[
+				"hel",
+				"help\tinstance"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "from django.shortcuts import render\nfrom django.http import HttpResponse\nfrom docx_generator import generate_docx\nfrom django.templatetags.static import static\n\ndef index(request):\n    context = dict()\n    context['author'] = 'test'\n    context['content'] = [1, 2, 3, 4, 5, 6]\n\n    generate_docx('form11.docx', context, 'test.docx')\n\n    return redirect(static())\n\n    \n",
+			"file": "CourseWork4/publications_app/views.py",
+			"file_size": 169,
+			"file_write_time": 132320400272532193,
+			"settings":
+			{
+				"buffer_size": 370,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CourseWork4/publications_app/urls.py",
+			"settings":
+			{
+				"buffer_size": 110,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CourseWork4/CourseWork4/urls.py",
+			"settings":
+			{
+				"buffer_size": 810,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CourseWork4/CourseWork4/settings.py",
+			"settings":
+			{
+				"buffer_size": 3257,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CourseWork4/publications_app/apps.py",
+			"settings":
+			{
+				"buffer_size": 106,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CourseWork4/publications_app/models.py",
+			"settings":
+			{
+				"buffer_size": 3783,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Meta/Dropbox/универ/6sem/lab/eco/lab2eco/requirements.txt",
+			"settings":
+			{
+				"buffer_size": 27,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CourseWork4/publications_app/admin.py",
+			"settings":
+			{
+				"buffer_size": 298,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Meta/Repos/cnclegacy/webapp/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 1524,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CourseWork4/publications_app/__init__.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "runserver.bat",
+			"settings":
+			{
+				"buffer_size": 106,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "from docxtpl import DocxTemplate\nimport os\nfrom django.conf import settings as dj_settings\n\n\ndef generate_docx(template_filename, context, result_filename):\n    tpl = DocxTemplate(os.path.join(dj_settings.STATIC_ROOT,\n                                    'templates', template_filename))\n    tpl.render(context)\n    tpl.save(os.path.join(dj_settings.STATIC_ROOT, 'generated', result_filename))\n",
+			"file": "CourseWork4/publications_app/docx_generator.py",
+			"file_size": 328,
+			"file_write_time": 132323017283417311,
+			"settings":
+			{
+				"buffer_size": 393,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Meta/Dropbox/универ/6sem/lab/eco/lab2eco/scenarios.csv",
+			"settings":
+			{
+				"buffer_size": 160,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pep",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"syntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"djan",
+				"Set Syntax: Python (Django)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"hex",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"hex edi",
+				"HexViewer: Discard All Edits"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"asm",
+				"Set Syntax: Assembly x86 (NASM)"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"black",
+				"Sublack: Format all"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git b",
+				"Git: New Branch"
+			],
+			[
+				"g",
+				"Git: Commit"
+			],
+			[
+				"git a",
+				"Git: Add All"
+			],
+			[
+				"rep",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"pepe",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"anaconda sett",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"build ",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"replpy",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"pyr",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"py",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"mono",
+				"Monokai Pro: select theme"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"jin",
+				"Set Syntax: HTML (Jinja2)"
+			],
+			[
+				"ADD",
+				"Git: Add All"
+			],
+			[
+				"jinj",
+				"Set Syntax: HTML (Jinja2)"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"c",
+				"Git: Commit"
+			],
+			[
+				"add ",
+				"Git: Add All"
+			],
+			[
+				"docs",
+				"Anaconda: Display object docs"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"bra",
+				"Git: Change Branch"
+			],
+			[
+				"branch",
+				"Git: New Branch"
+			],
+			[
+				"amen",
+				"Git: Amend Commit"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"PYTHON3",
+				"Build With: Python3"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"pep8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"mon",
+				"Monokai Pro: select theme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"buil",
+				"Build With: Python"
+			],
+			[
+				"sublimereplpyu",
+				"SublimeREPL: Python - RUN current file"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 52008))"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Meta/Repos/CourseWork4",
+		"/C/Users/Meta/Repos/CourseWork4/CourseWork4",
+		"/C/Users/Meta/Repos/CourseWork4/CourseWork4/CourseWork4",
+		"/C/Users/Meta/Repos/CourseWork4/CourseWork4/publications_app",
+		"/C/Users/Meta/Repos/CourseWork4/CourseWork4/publications_app/docx_generator"
+	],
+	"file_history":
+	[
+		"/C/Users/Meta/Dropbox/универ/6sem/lab/eco/lab2eco/lab2_2.ipynb",
+		"/C/Users/Meta/Dropbox/универ/6sem/lab/eco/lab2eco/lab2_1.ipynb",
+		"/C/Users/Meta/Repos/xna-cncnet-client/ClientCore/CnCNet5/GameCollection.cs",
+		"/C/Users/Meta/Dropbox/универ/6sem/lab/eco/lab2eco/graph.csv",
+		"/C/Users/Meta/Dropbox/универ/6sem/lab/eco/lab1eco/lab1.ipynb",
+		"/C/Users/Meta/Repos/CourseWork4/CourseWork4.sublime-project",
+		"/C/Users/Meta/Repos/cnclegacy/webapp/routes.py",
+		"/C/Users/Meta/Repos/cnclegacy/webapp/models.py",
+		"/C/Users/Meta/Repos/CourseWork4/CourseWork4/urls.py",
+		"/C/Users/Meta/Repos/CourseWork4/site/publications_app/views.py",
+		"/C/Users/Meta/Dropbox/универ/6sem/lab/rts/lab3/main.py",
+		"/C/Users/Meta/Dropbox/универ/6sem/lab/rts/lab3/mainwindow.ui",
+		"/C/Users/Meta/Dropbox/универ/6sem/lab/rts/lab3/methods.py",
+		"/C/Users/Meta/Downloads/methods.py",
+		"/C/Users/Meta/Repos/ProjectPhobos/src/GetNextOccupantIndex.cpp",
+		"/C/Users/Meta/Repos/YRpp/YRPP.h",
+		"/C/Users/Meta/Repos/YRpp/YRPPCore.h",
+		"/C/Users/Meta/Repos/ProjectPhobos/src/gamemd.h",
+		"/C/Users/Meta/Repos/ProjectPhobos/src/GetNextOccupantIndex.c",
+		"/C/Users/Meta/Repos/hydracorps-client-configs/RA2MD.ini",
+		"/C/Users/Meta/Repos/ProjectPhobos/build.bat",
+		"/C/Users/Meta/Repos/ProjectPhobos/src/disable_occupy_weapon_range.asm",
+		"/C/Users/Meta/Repos/ProjectPhobos/Makefile",
+		"/C/Users/Meta/Repos/ProjectPhobos/yrpp/Memory.h",
+		"/C/Users/Meta/Desktop/mind.vxl",
+		"/C/Users/Meta/Repos/ProjectPhobos/src/yrpp/YRPP.h",
+		"/C/Users/Meta/Dropbox/универ/6sem/lab/eco/stats.csv",
+		"/C/Users/Meta/Repos/ProjectPhobos/yrpp/YRPP.h",
+		"/C/Users/Meta/Repos/YRpp/Syringe.h",
+		"/C/Users/Meta/Repos/CourseWork3/src/main/webapp/index.jsp",
+		"/C/Users/Meta/Desktop/WarZone Beta/Maps/Custom/wz_2_stream.map",
+		"/C/Users/Meta/Repos/ProjectPhobos/inc/Classes/TechnoClass.h",
+		"/C/Users/Meta/Repos/ProjectPhobos/inc/Classes/ObjectClass.h",
+		"/C/Users/Meta/Repos/ProjectPhobos/inc/Classes/HouseClass.h",
+		"/C/Users/Meta/Repos/ProjectPhobos/inc/YurisRevenge.h",
+		"/C/Users/Meta/Repos/ProjectPhobos/src/misc.asm",
+		"/C/Users/Meta/Repos/ProjectPhobos/inc/Classes/FootClass.h",
+		"/C/Users/Meta/Repos/ProjectPhobos/gamemd.h",
+		"/C/Users/Meta/IdeaProjects/CourseWork3/src/main/webapp/index.jsp",
+		"/C/Users/Meta/Repos/ProjectPhobos/inc/Classes/WeaponTypeClass.h",
+		"/C/Users/Meta/source/repos/WebApplication/WebApplication/Pages/Products/Create.cshtml",
+		"/C/Games/RA2YR/Command and Conquer Red Alert II/Red-Resurrection/spawn.ini",
+		"/C/Users/Meta/Repos/xna-cncnet-client/DXMainClient/bin/Windows/Debug/Resources/OptionsWindow.ini",
+		"/C/Users/Meta/Repos/ProjectPhobos/src/LoadingScreen.asm",
+		"/C/Users/Meta/Repos/ProjectPhobos/inc/macros/patch.inc",
+		"/C/Users/Meta/Repos/ProjectPhobos/inc/macros/hack.inc",
+		"/C/Users/Meta/Repos/ProjectPhobos/src/replace_shp_shadow_check.asm",
+		"/C/Program Files/IDA 7.0/plugins/idaskins/themes/idaskins-dark/ida-consonance.clr",
+		"/C/Program Files/IDA 7.0/plugins/idaskins/themes/idaskins-dark/manifest.json",
+		"/C/Games/CnCNet/TiberianSun_Online/Maps/Balance-Vet Patch/9ab5713ad6dca7e8cc55845085a3f35d4b8a0a3b.map",
+		"/C/Program Files/IDA 7.0/plugins/idaskins/themes/idaskins-dark/stylesheet.qss",
+		"/C/Program Files/IDA 7.0/plugins/dsync.py",
+		"/C/Users/Meta/Repos/cnclegacy/webapp/templates/page.html",
+		"/C/Users/Meta/Repos/cnclegacy/webapp/templates/index.html",
+		"/C/Users/Meta/Repos/cnclegacy/webapp/templates/macros.html",
+		"/C/Users/Meta/Repos/ProjectPhobos/src/misc.o",
+		"/C/Users/Meta/Desktop/WarZone Beta/Maps/Custom/wz_2_duel.map",
+		"/C/Users/Meta/Desktop/dsync.py",
+		"/C/Users/Meta/Repos/ProjectPhobos/src/ReplaceShpShadowCheck.asm",
+		"/C/Users/Meta/Repos/ProjectPhobos/inc/macros/patch.h",
+		"/C/Users/Meta/Repos/ProjectPhobos/inc/patch.h",
+		"/C/Users/Meta/Repos/ProjectPhobos/inc/patch.inc",
+		"/C/Users/Meta/Repos/ProjectPhobos/src/NoShpDebrisShadow.asm",
+		"/C/Users/Meta/Repos/ProjectPhobos/inc/macros/utlist.h",
+		"/C/Users/Meta/source/repos/WebStore/WebStore/Startup.cs",
+		"/C/Users/Meta/Desktop/PersonalData.json",
+		"/C/Program Files/IDA 7.0/plugins/plugins.cfg",
+		"/C/Users/Meta/Repos/ProjectPhobos/src/NoShpDebrisShadow.o",
+		"/C/Users/Meta/Desktop/files for Kerbiter/Resources/TS Theme/GenericWindow.ini",
+		"/C/Users/Meta/Desktop/files for Kerbiter/Resources/TS Theme/MainMenu.ini",
+		"/C/Users/Meta/Desktop/files for Kerbiter/Resources/GameOptions.ini",
+		"/C/Users/Meta/Repos/xna-cncnet-client/DTAConfig/OptionPanels/UpdaterOptionsPanel.cs",
+		"/C/Users/Meta/Dropbox/универ/6sem/lab/rts/lab1/main.py",
+		"/C/Users/Meta/Repos/cncnet-discord-bot/config_wrapper.py",
+		"/C/Users/Meta/Repos/ra2/.git/COMMIT_EDITMSG",
+		"/C/Users/Meta/Repos/ra2/CODE_OF_CONDUCT.md",
+		"/C/Users/Meta/Repos/ra2/CONTRIBUTING.md",
+		"/C/Users/Meta/Dropbox/универ/5sem/lab/math/lab5/main.py",
+		"/C/Users/Meta/Dropbox/универ/6sem/lab/arch/repo/.git/COMMIT_EDITMSG",
+		"/C/Users/Meta/Dropbox/универ/5sem/lab/math/lab5/Adams2.py",
+		"/C/Users/Meta/Dropbox/универ/5sem/lab/math/lab5/Adams1.py",
+		"/C/Users/Meta/Downloads/EXCEPT_26_12_2019_15_25.TXT",
+		"/C/Games/Twisted_Insurrection/Twisted_Insurrection/spawn.ini",
+		"/C/Games/DTA/INI/Rules.ini",
+		"/C/Users/Meta/Repos/hydracorps-client-configs/Resources/GameOptions.ini",
+		"/C/Games/New folder/Command and Conquer WarZone/SUN.ini",
+		"/C/Games/New folder/Command and Conquer WarZone/Resources/ts-ddraw.ini",
+		"/C/Games/New folder/Command and Conquer WarZone/Resources/Renderers.ini",
+		"/C/Games/New folder/Command and Conquer WarZone/version",
+		"/C/Users/Meta/Documents/reset.sh",
+		"/C/Games/Command and Conquer Red Alert II/Resources/GameCollectionConfig.ini",
+		"/C/Games/AutisMC/config/serverGlobalConfig.properties",
+		"/C/Games/Twisted_Insurrection/Twisted_Insurrection/spawnmap.ini",
+		"/C/Games/AutisMC/config/divergentunderground.cfg",
+		"/C/Games/AutisMC/config/improvedmobs/main.cfg",
+		"/C/Games/AutisMC/server.properties",
+		"/C/Games/New folder/Command and Conquer WarZone/Resources/ClientDefinitions.ini",
+		"/C/Games/New folder/Command and Conquer WarZone/Resources/GameCollectionConfig.ini",
+		"/C/Users/Meta/Desktop/Redirect.csv",
+		"/C/Games/AutisMC/logs/list.txt",
+		"/C/Users/Meta/Desktop/cnc-ddraw/cnc-ddraw.ini",
+		"/C/Users/Meta/Desktop/test.py",
+		"/C/Users/Meta/Desktop/Mod Directory Files/Resources/UpdaterConfig.ini",
+		"/C/Games/New folder/Command and Conquer WarZone/version_cc",
+		"/C/Users/Meta/Repos/xna-cncnet-client/ClientCore/Translation.cs",
+		"/C/Users/Meta/Dropbox/универ/5sem/lab/math/lab4/main.py",
+		"/C/Users/Meta/Dropbox/универ/5sem/lab/math/lab5/t.txt",
+		"/C/Users/Meta/Dropbox/универ/5sem/lab/math/lab4/lagrange.py",
+		"/C/Users/Meta/IdeaProjects/CourseWork3/src/main/webapp/divisionList.jsp",
+		"/C/Users/Meta/Downloads/Telegram Desktop/newton_first.py",
+		"/C/Users/Meta/Dropbox/универ/5sem/lab/math/lab1/lab1/main.py",
+		"/C/Users/Meta/Dropbox/универ/5sem/lab/math/lab4/combined.py",
+		"/C/Users/Meta/Dropbox/Курсач/course_scratch/src/coursework/model/LagrangeInterpolation.java",
+		"/C/Users/Meta/Downloads/Telegram Desktop/Laverie-Fadeev.py",
+		"/C/Users/Meta/IdeaProjects/lab3java/lab3java.iml",
+		"/C/Users/Meta/IdeaProjects/lab3java/.idea/workspace.xml",
+		"/C/Users/Meta/Repos/Rampastring.XNAUI/XNAControls/XNACheckBox.cs",
+		"/C/Users/Meta/AppData/Roaming/Sublime Text 3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/C/Users/Meta/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Meta/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Meta/Dropbox/универ/5sem/lab/math/lab2/mainwindow.py",
+		"/C/Users/Meta/Repos/ccmaps-net/CNCMaps.Renderer.GUI/bin/Debug/CNCMaps.Renderer.GUI.exe.config",
+		"/C/Users/Meta/Desktop/reset.sh",
+		"/C/Users/Meta/IdeaProjects/lab2java/.git/COMMIT_EDITMSG",
+		"/C/Users/Meta/IdeaProjects/lab2java/src/servlets/UserServlet.java",
+		"/C/Users/Meta/Dropbox/универ/5sem/lab/math/lab2/lab1.py",
+		"/C/Users/Meta/Dropbox/универ/5sem/lab/math/lab1/lab1/holezky.py",
+		"/C/Users/Meta/Repos/hydracorps-client-configs/Resources/MultiplayerGameLobby.ini"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 154.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			";;;;;;;",
+			";;;;;;",
+			";;;;;",
+			";;;;",
+			";;;",
+			";;;;;;;\n;;;;;;;\n;;;;;;;\n;;;;;;;\n;;;;;;;\n;;;;;;;\n;;;;;;;\n;;;;;;;\n;;;;;;;\n;;;;;;;\n;;;;;;;",
+			"lb",
+			"label",
+			"models.ValidationError",
+			"polls"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "CourseWork4/publications_app/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								361,
+								361
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										361,
+										362
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										360,
+										361
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "CourseWork4/publications_app/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										108,
+										109
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/square_bracket.png",
+										"region.bluish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										65,
+										66
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "CourseWork4/CourseWork4/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								733,
+								733
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										733,
+										734
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										732,
+										733
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "CourseWork4/CourseWork4/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3256,
+								3256
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										3255,
+										3256
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										3246,
+										3247
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1808.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "CourseWork4/publications_app/apps.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "CourseWork4/publications_app/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3783,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2767,
+								2767
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1159.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Meta/Dropbox/универ/6sem/lab/eco/lab2eco/requirements.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/requirementstxt/requirementstxt.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "CourseWork4/publications_app/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								298,
+								298
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 86.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Meta/Repos/cnclegacy/webapp/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1519,
+										1523
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										17,
+										21
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "CourseWork4/publications_app/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "runserver.bat",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "CourseWork4/publications_app/docx_generator.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								393,
+								393
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/Users/Meta/Dropbox/универ/6sem/lab/eco/lab2eco/scenarios.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 136.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 124.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "CourseWork4.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
