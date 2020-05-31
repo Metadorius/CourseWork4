@@ -1,0 +1,33 @@
+{% load static %}
+{% load bootstrap4 %}
+
+<!doctype html>
+<html lang="en">
+<head>
+  {% block head %}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    {% block styles %}
+      {% bootstrap_css %}
+      <link rel="stylesheet" href="{% static 'styles.css' %}">
+    {% endblock %}
+
+    {% if page_title %}
+      <title>{{ page_title }} | Учёт публикаций</title>
+    {% else %}
+      <title>Учёт публикаций</title>
+    {% endif %}
+
+  {% endblock %}
+</head>
+<body>
+  {% autoescape off %}{% bootstrap_messages %}{% endautoescape %}
+
+  {% block layout %}{% endblock %}
+
+  {% block scripts %}
+    {% bootstrap_javascript jquery='full' %}
+  {% endblock %}
+</body>
+</html>

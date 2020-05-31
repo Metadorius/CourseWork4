@@ -1,0 +1,32 @@
+{% extends "generic/layout.html" %}
+
+{% block page_content %}
+
+<div class="card">
+  <div class="card-header">Информация об авторе</div>
+  <div class="card-body">
+    <h5 class="card-title">{{ author }}</h5>
+    <p class="card-text"><b>Работ:</b> {{ author.works.all|length }}</p>
+    <a href="{% url 'author_report' author.id %}" type="submit" class="card-link btn btn-outline-primary">Отчёт</a>
+  </div>
+</div>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Работа</th>
+      <th scope="col">Тип</th>
+      <th scope="col">Данные</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for work in author.works.all %}
+    <tr>
+      <td>{{ work }}</td>
+      <td>{{ work.work_type }}</td>
+      <td>{{ work.get_work_data }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

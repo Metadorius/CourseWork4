@@ -1,0 +1,19 @@
+{% extends "generic/base.html" %}
+
+{% block layout %}
+  {% block header %}
+    {% include "generic/elements/header.html" %}
+  {% endblock %}
+
+  <div class="content-wrapper">
+    {% if page_title %}
+    <div id="pageTitle">
+        <h4>{{ page_title }}</h4>
+    </div>
+    {% endif %}
+
+    <div id="pageContent">
+        {% block page_content %} {% endblock %}
+    </div>
+  </div>
+{% endblock %}

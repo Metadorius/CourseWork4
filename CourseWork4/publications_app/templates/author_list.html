@@ -1,0 +1,23 @@
+{% extends "generic/layout.html" %}
+
+{% block page_content %}
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Автор</th>
+      <th scope="col">Действие</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for author in authors %}
+    <tr>
+      <td>{{ author }}</td>
+      <td>
+        <a href="{% url 'author_details' author.id %}" type="submit" class="btn btn-outline-primary" formaction="update">Детали</button>
+        <a href="{% url 'author_report' author.id %}" type="submit" class="btn btn-outline-primary" formaction="update">Отчёт</button>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}
