@@ -6,7 +6,7 @@ django-bootstrap4==1.1.1
 django-phonenumber-field==4.0.0
 django-polymorphic==2.1.2
 docxtpl==0.9.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 lxml==4.6.2
 MarkupSafe==1.1.1
 phonenumbers==8.12.1
